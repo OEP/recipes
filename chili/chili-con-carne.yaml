@@ -1,7 +1,6 @@
 name: Chili Con Carne
 
-servings: 4
-nutritional_info: 425 calories
+servings: [2, 4]
 
 ingredients:
   - (1 pound) ground beef
